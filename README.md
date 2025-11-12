@@ -1,3 +1,1 @@
-# SEM3_IP-fsd-
-Individual Project of Sem 3 in full stack development.
-phy.html
+Check it live on : https://mbscitech.github.io/PhyChem-Calculator/phy.html
